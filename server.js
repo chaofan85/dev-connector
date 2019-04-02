@@ -1,10 +1,8 @@
-import { log } from "util";
-
-const express = require();
+const express = require("express");
 
 const app = express();
 
-app.get("/", (req, res) => res.send("Helo"));
+app.get("/", (req, res) => res.send("Hello!!"));
 
 const port = process.env.PORT || 5000;
 
