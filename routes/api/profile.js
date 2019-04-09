@@ -8,7 +8,6 @@ const Profile = require("../../models/Profile");
 // Load User Profile
 const User = require("../../models/User");
 
-
 // @route   GET api/profile/test
 // @desc    Tests profile route
 // @access  Public
