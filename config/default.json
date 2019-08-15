@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://yarG:12345@yarg-connector-mebgv.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://yarG:12345@yarg-connector-mebgv.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "42"
 }
