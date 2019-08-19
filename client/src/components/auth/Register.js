@@ -93,7 +93,6 @@ const Register = ({ setAlert, register, isAuthenticated }) => {
 
 Register.propTypes = {
   setAlert: PropTypes.func.isRequired,
-  setAlert: PropTypes.func.isRequired,
   isAuthenticated: PropTypes.bool
 };
 
