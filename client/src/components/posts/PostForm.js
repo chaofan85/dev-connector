@@ -17,11 +17,11 @@ const PostForm = ({ addPost }) => {
   };
 
   return (
-    <div class="post-form">
-      <div class="bg-primary p">
+    <div className="post-form">
+      <div className="bg-primary p">
         <h3>Say Something...</h3>
       </div>
-      <form class="form my-1" onSubmit={e => onSubmit(e)}>
+      <form className="form my-1" onSubmit={e => onSubmit(e)}>
         <textarea
           cols="30"
           rows="5"
@@ -30,7 +30,7 @@ const PostForm = ({ addPost }) => {
           onChange={e => setText(e.target.value)}
           required
         />
-        <input type="submit" value="Submit" class="btn btn-dark my-1" />
+        <input type="submit" value="Submit" className="btn btn-dark my-1" />
       </form>
     </div>
   );
