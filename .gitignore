@@ -84,3 +84,4 @@ typings/
 .dynamodb/
 
 config/default.json
+config/keys.json
