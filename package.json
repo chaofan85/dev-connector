@@ -1,7 +1,6 @@
 {
   "name": "dev_connector",
   "version": "1.0.0",
-  "private": true,
   "description": "Social network for developers",
   "main": "server.js",
   "scripts": {
