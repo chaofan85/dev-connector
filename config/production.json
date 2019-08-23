@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://yarG:12345@yarg-connector-mebgv.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "42",
-  "githubClientId": "d6c1440c8598af0a561d",
-  "githubSecret": "670db1eb46b9e8de3901c58dfa9deabc4fb506c3"
-}
